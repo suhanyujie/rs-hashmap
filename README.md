@@ -1,4 +1,8 @@
 # Rust 实现 HashMap
+
+## test
+* 执行单元测试 `cargo t`
+
 ## API
 ### insert
 ### get
